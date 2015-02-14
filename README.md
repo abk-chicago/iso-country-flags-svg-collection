@@ -1,5 +1,3 @@
-This project is seeking a new maintainer or a group of maintainers. See [Issue #40](https://github.com/koppi/iso-country-flags-svg-collection/issues/40).
-
 ## Description
 
 [ISO 3166-1 alpha-2](http://en.wikipedia.org/wiki/ISO_3166-1) defines two-letter country codes which are used most prominently for the Internet's country code top-level domains (with a few exceptions).
